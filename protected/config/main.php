@@ -8,7 +8,7 @@
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
 	'name'=>'KLyrics',
-	'theme'=>'hebo',
+
 
 	// preloading 'log' component
 	'preload'=>array('log'),
